@@ -10,6 +10,10 @@ String name1 = "Sidhu";
         String surname1 = "kanhere";
 
 
+String name2 = "Kishor";
+String surname = "Kanhere";
+
+
 
 
 
