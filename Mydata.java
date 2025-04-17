@@ -16,6 +16,10 @@ String surname = "Kanhere";
 
 
 
+String name2 = "Kishor";
+String surname = "Kanhere";
+
+
 
 }
 
